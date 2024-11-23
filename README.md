@@ -50,6 +50,8 @@ The *Point of Sale (POS)* system is designed to streamline retail operations by 
   - System design document
   - Wireframes/mockups
   - Database schema
+    ![pos-(1)](https://github.com/user-attachments/assets/3843b4e7-a90b-4a0c-8057-405fe0e2ac54)
+    -ER Diagram
 
 ---
 
